@@ -1,0 +1,14 @@
+.chart-container {
+    position: absolute;
+    max-height: 400px;
+    bottom: 0;
+
+    img{
+        border-radius: none;
+    }
+}
+
+// .chart-container img {
+//     border: 1px solid lighten($primary-color, 20%);
+//     border-radius: 8px;
+// }
