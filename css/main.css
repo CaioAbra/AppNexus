@@ -6,6 +6,7 @@ body {
   background-repeat: no-repeat;
   color: #FFFFFF;
   font-family: "Galano Grotesque", sans-serif;
+  min-height: 100vh;
   height: 100%;
 }
 
@@ -15,7 +16,6 @@ body {
 }
 
 .chart-container {
-  position: absolute;
   max-height: 400px;
   bottom: 0;
 }
