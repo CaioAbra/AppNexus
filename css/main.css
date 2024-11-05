@@ -21,6 +21,7 @@ body {
 }
 .chart-container img {
   border-radius: none;
+  width: 100%;
 }
 
 .opportunity-card {
